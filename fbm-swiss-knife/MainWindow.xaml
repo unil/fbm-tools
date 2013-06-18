@@ -1,0 +1,57 @@
+﻿<Window x:Class="FBM_SWISS_KNIFE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FBM Swiss Knife" Height="530" Width="721" Closing="Window_Closing">
+    <Grid>
+        <TabControl Name="tabControlMain">
+            <TabItem Header="Mise en domaine" Name="tabItemMiseEnDomaine">
+                <Grid>
+                    
+                </Grid>
+            </TabItem>
+            <TabItem Header="Créateur de dossier" Name="tabItemCreateurDeDossier">
+                <Grid>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Renommeur de dossier" Name="tabItemRenommeurDeDossier">
+                <Grid>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Modificateur de droits" Name="tabItemModificateurDeDroits">
+                <Grid>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Testeur d'existence" Name="tabItemTesteurDExistence">
+                <Grid>
+                    <GroupBox Header="Utilisateurs" HorizontalAlignment="Left" Margin="10,71,0,6" Name="groupBoxListUsers_Test" Width="255" Height="382">
+                        <Grid>
+                            <Label Content="Total : 0" Height="28" HorizontalAlignment="Left" Margin="6,0,0,6" Name="labelCountTotal_Test" VerticalAlignment="Bottom" />
+                            <ListBox AllowDrop="True" HorizontalAlignment="Left" Margin="6,6,0,40" Name="listBoxLog_Test" Width="231" Drop="listBoxLog_Test_Drop" DragEnter="listBoxLog_Test_DragEnter"/>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Erreurs" HorizontalAlignment="Left" Margin="271,71,0,6" Name="groupBoxErreurs_Test" Width="255" Height="382">
+                        <Grid>
+                            <Label Content="En erreur : 0" Height="28" HorizontalAlignment="Left" Margin="6,0,0,6" Name="labelCountError_Test" VerticalAlignment="Bottom" />
+                            <ListBox HorizontalAlignment="Right" Margin="0,6,6,40" Name="listBoxError_Test" Width="231" />
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Actions" Height="59" HorizontalAlignment="Left" Margin="10,6,0,0" Name="groupBoxAction_Test" VerticalAlignment="Top" Width="516">
+                        <Grid>
+                            <Button Content="Fichier(s) de noms" Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="btnParcourir_Test" VerticalAlignment="Top" Width="102" Click="btnParcourir_Test_Click" />
+                            <Button Content="Tester l'existence" Height="23" HorizontalAlignment="Left" Margin="188,6,0,0" Name="btnTesterExistence_Test" VerticalAlignment="Top" Width="96" Click="btnTesterExistence_Test_Click" />
+                            <Button Content="Enregistrer" Height="23" HorizontalAlignment="Left" Margin="356,6,0,0" Name="btnEnregistrer_Test" VerticalAlignment="Top" Width="86" Click="btnEnregistrer_Test_Click" />
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Utilisateurs" Name="tabItemUtilisateurs">
+                <Grid>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

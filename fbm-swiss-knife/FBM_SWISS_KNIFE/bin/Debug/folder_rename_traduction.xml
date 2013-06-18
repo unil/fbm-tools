@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTraduction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Traduction>
+    <Fr>PRIVE</Fr>
+    <En>PRIVATE</En>
+  </Traduction>
+  <Traduction>
+    <Fr>RECHERCHE</Fr>
+    <En>RESEARCH</En>
+  </Traduction>
+  <Traduction>
+    <Fr>ENSEIGNEMENT</Fr>
+    <En>TEACHING</En>
+  </Traduction>
+</ArrayOfTraduction>

@@ -1,0 +1,131 @@
+﻿<Window x:Class="FBM_SWISS_KNIFE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FBM Swiss Knife" Height="603" Width="730" Closing="Window_Closing">
+    <Grid>
+        <TabControl Name="tabControlMain" SelectionChanged="tabControlMain_SelectionChanged">
+            <TabItem Header="Mise en domaine" Name="tabItemMiseEnDomaine">
+                <Grid>
+                    
+                </Grid>
+            </TabItem>
+            <TabItem Header="Créateur de dossier" Name="tabItemCreateurDeDossier">
+                <Grid>
+                    <Button Content="Parcourir" Height="23" HorizontalAlignment="Left" Margin="10,11,0,0" Name="btnParcourirCDossier" ToolTip="Sélectionner le fichier contenant les noms d'utilisateurs" VerticalAlignment="Top" Width="75" />
+                    <Button Content="Destination" Height="23" HorizontalAlignment="Left" Margin="91,11,0,0" Name="btnDestinationCDossier" ToolTip="Sélectionner le dossier où seront créés les dossiers" VerticalAlignment="Top" Width="75" />
+                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="284,11,0,0" Name="comboBoxDepartementCDossier" VerticalAlignment="Top" Width="120" />
+                    <Button Content="Créer" Height="23" HorizontalAlignment="Left" Margin="489,11,0,0" Name="btnCreerCDossier" ToolTip="Lancer le processus" VerticalAlignment="Top" Width="75" />
+                    <ListView AllowDrop="True" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding listeFolders}" Margin="10,46,6,241" Name="listViewFoldersCDossier" Width="682">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=Name}" Header="Nom" Width="110" />
+                                <GridViewColumn Width="80">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox IsChecked="{Binding CreateContent}" Name="checkBoxContentCDossier" />
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                    <GridViewColumnHeader>
+                                        <CheckBox Checked="checkBoxFullContentCDossier_Checked" Content="Contenu" IsChecked="True" Name="checkBoxFullContentCDossier" Unchecked="checkBoxFullContentCDossier_Unchecked" />
+                                    </GridViewColumnHeader>
+                                </GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=State}" Header="Avancement" Width="120" />
+                                <GridViewColumn Header="Détails" Width="160">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Expander Collapsed="Expander_Collapsed" Expanded="Expander_Expanded" FontSize="10" Header="Afficher">
+                                                <StackPanel Margin="20,0,0,0">
+                                                    <Label Content="{Binding StatePerso}" />
+                                                    <Label Content="{Binding StatePublic}" />
+                                                    <Label Content="{Binding StatePrivate}" />
+                                                </StackPanel>
+                                            </Expander>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Label Content="Département :" Height="28" HorizontalAlignment="Left" Margin="192,10,0,0" Name="label2" VerticalAlignment="Top" />
+                    <StatusBar Height="23" Margin="10,0,134,212" Name="statusBarMainCDossier" VerticalAlignment="Bottom">
+                        <StatusBarItem DockPanel.Dock="Right">
+                            <TextBlock Name="textBlockPathCDossier" />
+                        </StatusBarItem>
+                        <StatusBarItem>
+                            <TextBlock Name="textBlockNbCDossier" />
+                        </StatusBarItem>
+                    </StatusBar>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Renommeur de dossier" Name="tabItemRenommeurDeDossier">
+                <Grid>
+                    <GroupBox Header="Dossiers racines" Margin="214,6,6,0" Name="groupBoxDossiersRDossier" Height="135" VerticalAlignment="Top">
+                        <Grid>
+                            <ListBox AllowDrop="True" DragEnter="listBoxDossiersRacinesRDossier_DragEnter" Drop="listBoxDossiersRacinesRDossier_Drop" Margin="6" Name="listBoxDossiersRacinesRDossier" />
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Avancement" Margin="6,300,6,6" Name="groupBoxAvancementRDossier">
+                        <Grid>
+                            <ListBox Margin="6,5,6,6" Name="listBoxAvancementRDossier" />
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Actions" Height="135" HorizontalAlignment="Left" Margin="6,6,0,0" Name="groupBoxActionsRDossier" VerticalAlignment="Top" Width="200">
+                        <Grid>
+                            <Button Content="Parcourir" Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="btnParcourirRDossier" ToolTip="Sélectionner le fichier contenant les chemins" VerticalAlignment="Top" Width="131" Click="btnParcourirRDossier_Click" />
+                            <Button Content="Sauvegarder le log" Height="23" HorizontalAlignment="Left" Margin="6,35,0,0" Name="btnSauvegarderRDossier" ToolTip="Sauvegarder le log disponible dans Avancement" VerticalAlignment="Top" Width="131" Click="btnSauvegarderRDossier_Click" />
+                            <Button Content="Lancer la traduction" Height="23" HorizontalAlignment="Left" Margin="6,0,0,6" Name="btnLancerRDossier" ToolTip="Lancer l'opération de traduction" VerticalAlignment="Bottom" Width="131" Click="btnLancerRDossier_Click" />
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Traductions" Margin="6,147,6,0" Name="groupBoxTraductionsRDossier" Height="147" VerticalAlignment="Top">
+                        <Grid>
+                            <TextBox Height="23" HorizontalAlignment="Left" Margin="10,6,0,0" Name="txtBoxValeurRDossier" VerticalAlignment="Top" Width="206" />
+                            <TextBox Height="23" HorizontalAlignment="Left" Margin="251,6,0,0" Name="txtBoxValeurTraduiteRDossier" VerticalAlignment="Top" Width="206" />
+                            <Button Content="Ajouter" Height="23" HorizontalAlignment="Left" IsDefault="True" Margin="461,6,0,0" Name="btnAjouterTraductionRDossier" ToolTip="Ajoute la nouvelle traduction" VerticalAlignment="Top" Width="90" Click="btnAjouterTraductionRDossier_Click" />
+                            <Label Content="en" Height="28" HorizontalAlignment="Left" Margin="222,4,0,0" Name="label1" VerticalAlignment="Top" />
+                            <ListBox Margin="10,35,6,9" Name="listBoxTraductionsRDossier" />
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Modificateur de droits" Name="tabItemModificateurDeDroits">
+                <Grid>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Testeur d'existence" Name="tabItemTesteurDExistence">
+                <Grid>
+                    <GroupBox Header="Utilisateurs" HorizontalAlignment="Left" Margin="10,40,0,6" Name="groupBoxListUsersTExistence" Width="255" Height="486">
+                        <Grid>
+                            <Label Content="Total : 0" Height="28" HorizontalAlignment="Left" Margin="6,0,0,6" Name="labelCountTotalTExistence" VerticalAlignment="Bottom" />
+                            <ListBox AllowDrop="True" HorizontalAlignment="Left" Margin="6,6,0,40" Name="listBoxLogTExistence" Width="231" Drop="listBoxLogTExistence_Drop" DragEnter="listBoxLogTExistence_DragEnter"/>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Erreurs" HorizontalAlignment="Left" Margin="271,40,0,6" Name="groupBoxErreursTExistence" Width="255" Height="486">
+                        <Grid>
+                            <Label Content="En erreur : 0" Height="28" HorizontalAlignment="Left" Margin="6,0,0,6" Name="labelCountErrorTExistence" VerticalAlignment="Bottom" />
+                            <ListBox HorizontalAlignment="Right" Margin="0,6,6,40" Name="listBoxErrorTExistence" Width="231" />
+                        </Grid>
+                    </GroupBox>
+                    <Button Content="Fichier(s) de noms" Height="23" HorizontalAlignment="Left" Margin="10,11,0,0" Name="btnParcourirTExistence" VerticalAlignment="Top" Width="102" Click="btnParcourirTExistence_Click" />
+                    <Button Content="Tester l'existence" Height="23" HorizontalAlignment="Left" Margin="118,11,0,0" Name="btnTesterExistenceTExistence" VerticalAlignment="Top" Width="96" Click="btnTesterExistenceTExistence_Click" />
+                    <Button Content="Enregistrer" Height="23" HorizontalAlignment="Left" Margin="220,11,0,0" Name="btnEnregistrerTExistence" VerticalAlignment="Top" Width="86" Click="btnEnregistrerTExistence_Click" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Utilisateurs" Name="tabItemUtilisateurs">
+                <Grid>
+                    <Button Content="Parcourir" Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="btnParcourirRecup" VerticalAlignment="Top" Width="75" />
+                    <Button Content="Enregistrer" Height="23" HorizontalAlignment="Left" Margin="91,10,0,0" Name="btnEnregistrerRecup" VerticalAlignment="Top" Width="75" />
+                    <ListBox Margin="10,45,134,242" Name="listBoxRecup" />
+                    <StatusBar Height="23" Margin="10,0,134,213" Name="statusBarRecup" VerticalAlignment="Bottom">
+                        <StatusBarItem DockPanel.Dock="Right">
+                            <TextBlock Name="textBlockPathRecup" />
+                        </StatusBarItem>
+                        <StatusBarItem>
+                            <TextBlock Name="textBlockNbRecup" />
+                        </StatusBarItem>
+                    </StatusBar>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

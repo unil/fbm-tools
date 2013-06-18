@@ -1,0 +1,28 @@
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\bin\Debug\FBM_SWISS_KNIFE.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\bin\Debug\FBM_SWISS_KNIFE.pdb
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\MainWindow.baml
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\MainWindow.g.cs
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\App.g.cs
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE_MarkupCompile.cache
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.g.resources
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.Properties.Resources.resources
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\bin\Debug\FBM_SWISS_KNIFE.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\bin\Debug\FBM_SWISS_KNIFE.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.g.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\FBM_SWISS_KNIFE.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\bin\Debug\Folder_Rename_Wpf.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\FBM_SWISS_KNIFE\FBM_SWISS_KNIFE\bin\Debug\Folder_Rename_Wpf.pdb
