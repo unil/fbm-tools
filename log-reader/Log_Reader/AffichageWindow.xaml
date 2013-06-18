@@ -1,0 +1,13 @@
+﻿<Window x:Class="Log_Reader.AffichageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Affichage" MaxHeight="346" MinHeight="346" MinWidth="450" Width="823" WindowStartupLocation="CenterScreen" Icon="UNIL.ico" >
+    <Grid>
+        <Label Content="Machine name : " Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="labelMachineName" VerticalAlignment="Top" Width="595" />
+        <Label Content="Script : " Height="28" HorizontalAlignment="Left" Margin="12,46,0,0" Name="labelScript" VerticalAlignment="Top" Width="595" />
+        <Label Content="User : " Height="28" HorizontalAlignment="Left" Margin="12,80,0,0" Name="labelUser" VerticalAlignment="Top" Width="595" />
+        <Label Content="Date : " Height="28" HorizontalAlignment="Left" Margin="12,114,0,0" Name="labelDate" VerticalAlignment="Top" Width="572" />
+        <TextBox Height="144" TextWrapping="Wrap" Margin="12,0,12,12" Name="txtBoxMessage" VerticalAlignment="Bottom" />
+        <Button Content="Fermer" Height="23" HorizontalAlignment="Right" Margin="0,13,12,0" IsDefault="True" Name="btnFermer" VerticalAlignment="Top" Width="75" Click="btnFermer_Click" />
+    </Grid>
+</Window>

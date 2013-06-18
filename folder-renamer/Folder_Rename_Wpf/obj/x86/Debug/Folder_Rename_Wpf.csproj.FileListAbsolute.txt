@@ -84,3 +84,16 @@ C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Rename_Wpf - V3\Folder_Rename_Wpf\obj
 C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Rename_Wpf - V3\Folder_Rename_Wpf\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Rename_Wpf - V3\Folder_Rename_Wpf\bin\Debug\Folder_Rename_Wpf.exe
 C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Rename_Wpf - V3\Folder_Rename_Wpf\bin\Debug\Folder_Rename_Wpf.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\Folder_Rename_Wpf.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\Folder_Rename_Wpf.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\bin\Debug\Folder_Rename_Wpf.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\bin\Debug\Folder_Rename_Wpf.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\Folder_Rename_Wpf_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\Folder_Rename_Wpf.g.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\Folder_Rename_Wpf.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\fbm-tools\folder-renamer\Folder_Rename_Wpf\obj\x86\Debug\GenerateResource.write.1.tlog

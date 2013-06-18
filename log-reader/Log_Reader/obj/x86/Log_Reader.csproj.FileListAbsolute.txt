@@ -1,0 +1,106 @@
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\bin\Debug\Log_Reader.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\bin\Debug\Log_Reader.pdb
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\MainWindow.baml
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\App.g.cs
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.csproj.GenerateResource.Cache
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\bin\Debug\Log_Reader.pdb
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Partition_D\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\bin\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Transfert\Log_Reader\Log_Reader\obj\x86\Debug\Log_Reader.csproj.GenerateResource.Cache
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\bin\Debug\Log_Reader.pdb
+C:\Users\Quentin\Documents\Visual Studio 2010\Projects\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\bin\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V2\Log_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\bin\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\AffichageWindow.baml
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\AffichageWindow.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\bin\Debug\Log_Reader.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\AffichageWindow.baml
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\AffichageWindow.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Partition_D\Dropbox\Programmes\SAVE\Log_Reader - V3\Log_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\AffichageWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\AffichageWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.g.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\Log_Reader.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\bin\Debug\Log_Reader.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Log_Reader - V3\Log_Reader\bin\Debug\Log_Reader.pdb
