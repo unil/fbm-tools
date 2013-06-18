@@ -1,0 +1,24 @@
+﻿<Window x:Class="RightsUtility.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ACL Rights Utility" Height="362" Width="539" Closing="Window_Closing" Icon="UNIL.ico">
+    <Grid>
+        <Button Content="Fichier de noms" Height="23" HorizontalAlignment="Left" Margin="6,11,0,0" Name="btnParcourir" VerticalAlignment="Top" Width="97" Click="btnParcourir_Click" />
+        <Button Content="Dossier cible" Height="23" HorizontalAlignment="Left" Margin="6,39,0,0" Name="btnCible" VerticalAlignment="Top" Width="97" Click="btnCible_Click" />
+        <ProgressBar Height="22" Margin="6,68,6,0" Minimum="0" Name="progressBarItems" VerticalAlignment="Top" />
+        <Button Content="Accès normaux" Height="23" HorizontalAlignment="Left" Margin="122,11,0,0" Name="btnRetirer" VerticalAlignment="Top" Width="89" Click="btnRetirer_Click" />
+        <Button Content="Lecture seule" Height="23" HorizontalAlignment="Left" Margin="122,39,0,0" Name="btnMettre" VerticalAlignment="Top" Width="89" Click="btnMettre_Click" />
+        <Button Content="Arrêter" Height="23" HorizontalAlignment="Right" Margin="0,11,6,0" Name="btnArreter" VerticalAlignment="Top" Width="75" Click="btnArreter_Click" />
+        <Button Content="Pause" Height="23" HorizontalAlignment="Right" Margin="0,39,6,0" Name="btnPause" VerticalAlignment="Top" Width="75" Click="btnPause_Click"  />
+        <ListBox Margin="6,100,6,37" Name="listBoxLog" />
+        <StatusBar Height="23" Margin="6,0,6,8" Name="statusBarMain" VerticalAlignment="Bottom">
+            <StatusBarItem DockPanel.Dock="Right">
+                <TextBlock Name="Cible" />
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock Name="Nb" />
+            </StatusBarItem>
+        </StatusBar>
+        <Label Content="" FontSize="10" FontWeight="Bold" Foreground="White" Height="22" HorizontalContentAlignment="Center" Margin="6,68,6,0" Name="labelPourc" VerticalAlignment="Top" />
+    </Grid>
+</Window>

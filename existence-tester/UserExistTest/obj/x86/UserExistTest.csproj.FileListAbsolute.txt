@@ -1,0 +1,30 @@
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\MainWindow.baml
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\MainWindow.g.cs
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\App.g.cs
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest_MarkupCompile.cache
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.g.resources
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.Properties.Resources.resources
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\bin\Debug\UserExistTest.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\bin\Debug\UserExistTest.pdb
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\bin\Debug\RightsUtility.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\bin\Debug\RightsUtility.pdb
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.exe
+c:\users\mbgr\documents\visual studio 2010\Projects\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\bin\Debug\UserExistTest.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\bin\Debug\UserExistTest.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\bin\Debug\RightsUtility.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\bin\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.g.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\UserExistTest.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\UserExistTest\UserExistTest\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,54 @@
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\bin\Debug\RightsUtility.exe
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\bin\Debug\RightsUtility.pdb
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\MainWindow.baml
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\MainWindow.g.cs
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\App.g.cs
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\RightsUtility_MarkupCompile.cache
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\RightsUtility.g.resources
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\RightsUtility.Properties.Resources.resources
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\RightsUtility.exe
+c:\users\quentin\documents\visual studio 2010\Projects\RightsUtility\obj\x86\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\bin\Debug\RightsUtility.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\bin\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.g.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\bin\Debug\RightsUtility.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\bin\Debug\RightsUtility.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\MainWindow.baml
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\MainWindow.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\App.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility_MarkupCompile.cache
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.g.resources
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\RightsUtility.Properties.Resources.resources
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Partition_D\Dropbox\Programmes\SAVE\RightsUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Partition_D\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility.exe
+C:\Partition_D\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\bin\Debug\RightsUtility.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\bin\Debug\RightsUtility.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility.g.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\RightsUtility.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\RightsUtility\obj\x86\Debug\GenerateResource.write.1.tlog

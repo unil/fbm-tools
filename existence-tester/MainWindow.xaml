@@ -1,0 +1,14 @@
+﻿<Window x:Class="UserExistTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="User Existence Checker" Height="293" Width="517" MaxWidth="517" Icon="UNIL.ico" Closing="Window_Closing">
+    <Grid>
+        <Button Content="Fichier(s) de noms" Height="23" HorizontalAlignment="Left" Margin="12,7,0,0" Name="btnParcourirTest" VerticalAlignment="Top" Width="102" Click="btnParcourirTest_Click" />
+        <Button Content="Tester l'existence" Height="23" HorizontalAlignment="Left" Margin="134,7,0,0" Name="btnTester" VerticalAlignment="Top" Width="96" Click="btnTester_Click" />
+        <Button Content="Enregistrer" Height="23" HorizontalAlignment="Right" Margin="0,7,12,0" Name="btnEnregistrer" VerticalAlignment="Top" Width="86" Click="btnEnregistrer_Click" />
+        <ListBox AllowDrop="True" Margin="12,36,0,46" Name="listBoxLog" Drop="listBoxLogTest_Drop" DragEnter="listBoxLogTest_DragEnter" HorizontalAlignment="Left" Width="233" />
+        <ListBox Margin="0,36,12,46" Name="listBoxError" HorizontalAlignment="Right" Width="233" />
+        <Label Content="Total : 0" Height="28" HorizontalAlignment="Left" Margin="12,0,0,12" Name="labelCountTotal" VerticalAlignment="Bottom" />
+        <Label Content="En erreur : 0" Height="28" HorizontalAlignment="Right" Margin="0,0,173,12" Name="labelCountError" VerticalAlignment="Bottom" />
+    </Grid>
+</Window>
