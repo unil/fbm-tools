@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AD>ad.unil.ch</AD>
+  <LDAP>OU=FBM,OU=OLD-DOM,DC=ad,DC=unil,DC=ch</LDAP>
+  <OU />
+</Configuration>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDepartement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Departement>
+    <Nom>DEC</Nom>
+    <Abreviation>DEC</Abreviation>
+    <OU>DEC</OU>
+  </Departement>
+  <Departement>
+    <Nom>DPT</Nom>
+    <Abreviation>DPT</Abreviation>
+    <OU>DPT</OU>
+  </Departement>
+  <Departement>
+    <Nom>DGM</Nom>
+    <Abreviation>DGM</Abreviation>
+    <OU>DGM</OU>
+  </Departement>
+  <Departement>
+    <Nom>UP</Nom>
+    <Abreviation>UP</Abreviation>
+    <OU>UP</OU>
+  </Departement>
+  <Departement>
+    <Nom>DP</Nom>
+    <Abreviation>DP</Abreviation>
+    <OU>DP</OU>
+  </Departement>
+  <Departement>
+    <Nom>LICR</Nom>
+    <Abreviation>LICR</Abreviation>
+    <OU>LICR</OU>
+  </Departement>
+  <Departement>
+    <Nom>DNF</Nom>
+    <Abreviation>DNF</Abreviation>
+    <OU>DNF</OU>
+  </Departement>
+</ArrayOfDepartement>

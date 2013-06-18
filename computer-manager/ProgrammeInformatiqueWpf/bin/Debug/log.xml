@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Log>
+    <ComputerName>DGM23969</ComputerName>
+    <Date>2013-2-12 12:2:45</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DGM23969</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 8</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DGM23969</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 90-B1-1C-8E-B9-AE</string>
+      <string>IPv4 Adress : 2001:620:610:810:14d0:6631:4b09:dc18</string>
+      <string>IPv6 Adress : 2001:620:610:810:2f:42c2:3d14:27f5</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DEC24347</ComputerName>
+    <Date>2013-5-13 10:8:8</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DEC24347</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 8</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DEC24347</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 90-B1-1C-A0-0D-7F</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DEC24348</ComputerName>
+    <Date>2013-5-13 11:46:21</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DEC24348</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 8</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DEC24348</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 90-B1-1C-A0-0D-F2</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP29999</ComputerName>
+    <Date>2013-5-21 9:15:35</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP29999</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 1</string>
+      <string>UserName : UNIL</string>
+      <string>Domain Name : DP29999</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 08-00-27-86-2D-7C</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP29999</ComputerName>
+    <Date>2013-5-21 9:15:50</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP29999</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 1</string>
+      <string>UserName : UNIL</string>
+      <string>Domain Name : DP29999</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 08-00-27-86-2D-7C</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP29999</ComputerName>
+    <Date>2013-5-21 9:17:51</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP29999</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 1</string>
+      <string>UserName : UNIL</string>
+      <string>Domain Name : DP29999</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 08-00-27-86-2D-7C</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP29999</ComputerName>
+    <Date>2013-5-21 9:17:56</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP29999</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 1</string>
+      <string>UserName : UNIL</string>
+      <string>Domain Name : DP29999</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 08-00-27-86-2D-7C</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP29999</ComputerName>
+    <Date>2013-5-21 9:20:7</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP29999</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 1</string>
+      <string>UserName : UNIL</string>
+      <string>Domain Name : DP29999</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 08-00-27-86-2D-7C</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP29999</ComputerName>
+    <Date>2013-5-21 9:24:43</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP29999</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 1</string>
+      <string>UserName : UNIL</string>
+      <string>Domain Name : DP29999</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 08-00-27-86-2D-7C</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP00006</ComputerName>
+    <Date>2013-5-21 16:1:15</Date>
+    <UserName>chenriq1</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DP00006</string>
+      <string>System Version : Microsoft Windows NT 5.1.2600 Service Pack 3</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DP00006</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 1</string>
+      <string>Version Revision : 1</string>
+      <string>MacAdress : 00-C0-02-20-AC-09</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP18963</ComputerName>
+    <Date>2013-5-21 18:32:56</Date>
+    <UserName>opasche</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DP18963</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DP18963</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 00-FF-A0-A2-D6-05</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP18963</ComputerName>
+    <Date>2013-5-21 18:55:8</Date>
+    <UserName>opasche</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DP18963</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DP18963</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 00-FF-10-B0-D7-05</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP18963</ComputerName>
+    <Date>2013-5-22 16:17:50</Date>
+    <UserName>opasche</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DP18963</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DP18963</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 00-FF-B0-DB-73-05</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DP18963</ComputerName>
+    <Date>2013-5-22 18:32:16</Date>
+    <UserName>opasche</UserName>
+    <ComputerParams>
+      <string>Is 64bits : True</string>
+      <string>Machine Name : DP18963</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : Administrateur</string>
+      <string>Domain Name : DP18963</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 00-FF-B0-4B-D7-05</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DEC36363</ComputerName>
+    <Date>2013-5-23 8:28:37</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DEC36363</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : MBGR</string>
+      <string>Domain Name : DEC36363</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 08-00-27-61-64-1F</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DEC36363</ComputerName>
+    <Date>2013-5-23 9:17:16</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DEC36363</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : MBGR</string>
+      <string>Domain Name : DEC36363</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 08-00-27-61-64-1F</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DEC36363</ComputerName>
+    <Date>2013-5-23 9:45:11</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DEC36363</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : MBGR</string>
+      <string>Domain Name : DEC36363</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 08-00-27-61-64-1F</string>
+    </ComputerParams>
+  </Log>
+  <Log>
+    <ComputerName>DEC36363</ComputerName>
+    <Date>2013-5-23 10:7:3</Date>
+    <UserName>qbuache</UserName>
+    <ComputerParams>
+      <string>Is 64bits : False</string>
+      <string>Machine Name : DEC36363</string>
+      <string>System Version : Microsoft Windows NT 6.1.7601 Service Pack 1</string>
+      <string>Processor Count : 2</string>
+      <string>UserName : MBGR</string>
+      <string>Domain Name : DEC36363</string>
+      <string>Version Build : 30319</string>
+      <string>Version Major : 4</string>
+      <string>Version Major Revision : 0</string>
+      <string>Version Minor : 0</string>
+      <string>Version Minor Revision : 296</string>
+      <string>Version Revision : 296</string>
+      <string>MacAdress : 08-00-27-61-64-1F</string>
+    </ComputerParams>
+  </Log>
+</ArrayOfLog>

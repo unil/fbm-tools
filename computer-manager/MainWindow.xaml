@@ -1,0 +1,41 @@
+﻿<Window x:Class="ProgrammeInformatiqueWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Programme Informatique" WindowStartupLocation="CenterScreen" Height="407" Width="525" ResizeMode="CanMinimize" Loaded="Window_Loaded" Icon="UNIL.ico">
+    <Grid>
+        <GroupBox Header="Choisir une action" Height="100" HorizontalAlignment="Left" Margin="12,12,0,0" Name="groupBoxAction" VerticalAlignment="Top" Width="226">
+            <Grid>
+                <RadioButton Content="Ajouter" Height="16" HorizontalAlignment="Left" Margin="6,10,0,0" Name="radioButtonAjouter" VerticalAlignment="Top" Checked="radioButtonAjouter_Checked" />
+                <RadioButton Content="Supprimer" Height="16" HorizontalAlignment="Left" Margin="6,46,0,0" Name="radioButtonSupprimer" VerticalAlignment="Top" Checked="radioButtonSupprimer_Checked" />
+                <RadioButton Content="Changer nom" Height="16" HorizontalAlignment="Left" Margin="114,10,0,0" Name="radioButtonChangerNom" VerticalAlignment="Top" Checked="radioButtonChangerNom_Checked" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Choisir un département" IsEnabled="False" Height="100" HorizontalAlignment="Left" Margin="12,127,0,0" Name="groupBoxDepartement" VerticalAlignment="Top" Width="226">
+            <Grid>
+                <Label Content="Département" Height="28" HorizontalAlignment="Left" Margin="6,13,0,0" Name="lblDepartement" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="88,16,0,0" Name="comboBoxDepartement" VerticalAlignment="Top" Width="120" SelectionChanged="comboBoxDepartement_SelectionChanged" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Entrer un nom d'ordinateur" IsEnabled="False" Height="75" Margin="0,12,12,0" Name="groupBoxOrdinateur" VerticalAlignment="Top" HorizontalAlignment="Right" Width="247">
+            <Grid>
+                <Label Content="Nouveau nom" Height="28" HorizontalAlignment="Left" Margin="6,19,0,0" Name="lblComputerName" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Right" Margin="0,21,87,0" Name="txtBoxPrefixe" VerticalAlignment="Top" Width="50" />
+                <TextBox Height="23" Margin="0,21,6,0" Name="txtBoxNom" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Entrer le compte UNIL (AD)" IsEnabled="False" Height="126" HorizontalAlignment="Right" Margin="0,101,12,0" Name="groupBoxUtilisateur" VerticalAlignment="Top" Width="247">
+            <Grid>
+                <Label Content="Username" Height="28" HorizontalAlignment="Left" Margin="6,12,0,0" Name="lblUsernameAD" VerticalAlignment="Top" />
+                <TextBox Height="23" Margin="0,14,6,0" Name="txtBoxUsername" VerticalAlignment="Top" HorizontalAlignment="Right" Width="131" />
+                <Label Content="Mot de passe" Height="28" HorizontalAlignment="Left" Margin="6,58,0,0" Name="lblPasswordAD" VerticalAlignment="Top" />
+                <PasswordBox Height="23" GotFocus="passwordBoxCompte_GotFocus" HorizontalAlignment="Right" Margin="0,61,6,0" Name="passwordBoxCompte" VerticalAlignment="Top" Width="131" />
+            </Grid>
+        </GroupBox>
+        <Button Content="Valider" IsDefault="True" Height="23" HorizontalAlignment="Left" Margin="12,233,0,0" Name="btnValider" VerticalAlignment="Top" Width="75" Click="btnValider_Click" />
+        <GroupBox Header="Message d'information" Margin="12,262,12,12" Name="groupBoxInformations">
+            <Grid>
+                <TextBox TextWrapping="Wrap" Focusable="False" Margin="6,6,6,5" Name="txtBoxSortie" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
