@@ -1,0 +1,79 @@
+﻿<Window x:Class="Folder_Creator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Créateur de dossier" Height="392" Width="598" WindowStartupLocation="CenterScreen" Closing="Window_Closing" Icon="UNIL.ico" >
+    <Grid>
+        <TabControl Name="tabControlMain" SelectionChanged="tabControlMain_SelectionChanged">
+            <TabItem Header="Créateur" Name="tabItemProgramme">
+                <Grid>
+                    <Button Content="Parcourir" ToolTip="Sélectionner le fichier contenant les noms d'utilisateurs" Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="btnParcourir" Click="btnParcourir_Click" VerticalAlignment="Top" Width="75" />
+                    <Button Content="Destination" ToolTip="Sélectionner le dossier où seront créés les dossiers" Height="23" HorizontalAlignment="Left" Margin="87,6,0,0" Name="btnDestination" Click="btnDestination_Click" VerticalAlignment="Top" Width="75" />
+                    <Button Content="Créer" ToolTip="Lancer le processus" Height="23" Margin="485,6,0,0" Name="btnCreer" Click="btnCreer_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75" />
+                    <ListView IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding listeFolders}" AllowDrop="True" Drop="listViewFolders_Drop" DragEnter="listViewFolders_DragEnter" Margin="6,41,6,35" Name="listViewFolders" >
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=Name}" Header="Nom" Width="110" />
+                                <GridViewColumn Width="80">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox IsChecked="{Binding CreateContent}" Name="checkBoxContent" />
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                    <GridViewColumnHeader>
+                                        <CheckBox Checked="checkBoxFullContent_Checked" Content="Contenu" IsChecked="True" Name="checkBoxFullContent" Unchecked="checkBoxFullContent_Unchecked" />
+                                    </GridViewColumnHeader>
+                                </GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding Path=State}" Header="Avancement" Width="120" />
+                                <GridViewColumn Header="Détails" Width="160">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Expander FontSize="10" Header="Afficher" Expanded="Expander_Expanded" Collapsed="Expander_Collapsed">
+                                                <StackPanel Margin="20,0,0,0">
+                                                    <Label Content="{Binding StatePerso}" />
+                                                    <Label Content="{Binding StatePublic}" />
+                                                    <Label Content="{Binding StatePrivate}" />
+                                                </StackPanel>
+                                            </Expander>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Label Content="Département :" Height="28" HorizontalAlignment="Left" Margin="188,5,0,0" Name="label1" VerticalAlignment="Top" />
+                    <StatusBar Margin="6,0,6,6" Name="statusBarMain" Height="23" VerticalAlignment="Bottom" >
+                        <StatusBarItem DockPanel.Dock="Right">
+                            <TextBlock Name="textBlockPath" />
+                        </StatusBarItem>
+                        <StatusBarItem>
+                            <TextBlock Name="textBlockNb"/>
+                        </StatusBarItem>
+                    </StatusBar>
+                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="280,6,0,0" Name="comboBoxDepartement" VerticalAlignment="Top" Width="120" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Récupérateur" Name="tabItemRecup">
+                <Grid>
+                    <Button Content="Parcourir" Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="btnParcourirRecup" VerticalAlignment="Top" Width="75" Click="btnParcourirRecup_Click" />
+                    <Button Content="Enregistrer" Height="23" Margin="87,6,0,0" Name="btnEnregistrerRecup" VerticalAlignment="Top" Click="btnEnregistrerRecup_Click" HorizontalAlignment="Left" Width="75" />
+                    <ListBox Name="listBoxRecup" Margin="6,41,6,35" />
+                    <StatusBar Margin="6,0,6,6" Name="statusBarRecup" Height="23" VerticalAlignment="Bottom">
+                        <StatusBarItem DockPanel.Dock="Right">
+                            <TextBlock Name="textBlockPathRecup" />
+                        </StatusBarItem>
+                        <StatusBarItem>
+                            <TextBlock Name="textBlockNbRecup"/>
+                        </StatusBarItem>
+                    </StatusBar>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Log" Name="tabItemLog">
+                <Grid>
+                    <Button Content="Enregistrer" Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Click="btnEnregistrer_Click" Name="btnEnregistrer" VerticalAlignment="Top" Width="75" />
+                    <ListBox Name="listBoxLogs" Margin="6,41,6,6" />
+                    <Button Content="Supprimer les erreurs" Height="23" HorizontalAlignment="Right" Margin="0,6,6,0" Name="btnSupprimerErreurs" VerticalAlignment="Top" Width="171" Click="btnSupprimerErreurs_Click" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

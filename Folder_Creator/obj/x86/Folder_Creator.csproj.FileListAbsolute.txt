@@ -1,0 +1,67 @@
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\bin\Debug\Folder_Creator.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\bin\Debug\Folder_Creator.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.g.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\bin\Debug\Folder_Creator.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\bin\Debug\Folder_Creator.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\MainWindow.baml
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\App.g.cs
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator_MarkupCompile.cache
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.g.resources
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\Folder_Creator.Properties.Resources.resources
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator\Folder_Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.pdb
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.g.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\bin\Debug\Folder_Creator.exe
+C:\Users\MBGR\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\bin\Debug\Folder_Creator.pdb
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.exe
+C:\Partition_D\Dropbox\Programmes\SAVE\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\bin\Debug\Folder_Creator.exe
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\bin\Debug\Folder_Creator.pdb
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\MainWindow.baml
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\App.g.cs
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator_MarkupCompile.cache
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.g.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.Properties.Resources.resources
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MBGR\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.exe
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.pdb
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\bin\Debug\Folder_Creator.exe
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\bin\Debug\Folder_Creator.pdb
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\MainWindow.baml
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\MainWindow.g.cs
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\App.g.cs
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator_MarkupCompile.cache
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.g.resources
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\Folder_Creator.Properties.Resources.resources
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Partition_D\Dropbox\Projets\_UNIL\Folder_Creator - V2\Folder_Creator\obj\x86\Debug\GenerateResource.write.1.tlog
